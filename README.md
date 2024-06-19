@@ -1,9 +1,4 @@
-## Hi there 👋
-
-<!--
-**OrangeDou/OrangeDou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+[![MasterHead](ea581833bb3743ce9dde81e4531e2fbd.png)]([your GitHub link](https://github.com/OrangeDou/OrangeDou))
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
