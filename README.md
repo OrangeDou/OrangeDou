@@ -5,6 +5,7 @@
  <p  align="center">
 🏝️  Hello! This is XiaoCheng <br>
 🏫  ShangHai Polytechnic University <br>
+📕  Master of Computer Science <br>
 📍  Shang Hai <br>
 ♻️  公众号：Orango
 </p>
